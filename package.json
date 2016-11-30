@@ -1,6 +1,6 @@
 {
   "name": "typed-native-base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Type definitions for native-base",
   "main": "",
   "typings": "index.d.ts",
