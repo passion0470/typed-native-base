@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrphu3074/typed-native-base.git"
+    "url": "git+https://github.com/wcandillon/typed-native-base.git"
   },
   "bugs": {
-    "url": "https://github.com/mrphu3074/typed-native-base/issues"
+    "url": "https://github.com/wcandillon/typed-native-base/issues"
   },
-  "homepage": "https://github.com/mrphu3074/typed-native-base#readme"
+  "homepage": "https://github.com/wcandillon/typed-native-base#readme"
 }
